@@ -1,0 +1,107 @@
+ /*--------------------------classes------------------------- */
+ .Line1{
+    position: absolute;
+    left: 50%;
+    top: 10%;
+    height: 60%;
+    width: 4px;
+    background: aqua;
+    }
+    
+ /* .I1{ */
+    /* opacity: 50%; */
+    /* z-index:1; */
+/* } */
+
+.I2{
+    z-index:-1;
+}
+
+
+/* ---------------------------elements----------------------- */
+body{
+    background-color:hsl(0, 0%, 0%);
+    
+}
+header{
+    background-color: 4B0F0F;
+    color: azure;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serifF;
+    font-size: 70;
+    padding-left: 10%;
+    padding-top: 75;
+    padding-bottom: 75;
+}
+footer{
+    background-color: 4B0F0F;
+    color: azure;
+    text-align: center;
+    padding-top: 75;
+    padding-bottom: 75;
+    left: 0px;
+    margin-top: 90%;
+}
+
+button{
+    background-color: 4B0F0F;
+    color: azure;
+    padding-left: 25;
+    padding-right: 25;
+    padding-top: 10;
+    padding-bottom: 10;
+}
+
+img{
+    height : 200px; 
+    width : 200px;
+}
+
+
+/* -----------------------------id--------------------------- */
+#img-1{
+    position: absolute;
+    left: 390px;
+    top: 729px;  
+}
+
+#img-2{
+    position: absolute;
+    left: 725px;
+    top: 729px;  
+}
+
+#img-3{
+    position: absolute;
+    left: 214px;
+    top: 986px;  
+}
+
+#img-4{
+    position: absolute;
+    left: 559px;
+    top: 986px;  
+}
+
+#img-5{
+    position: absolute;
+    left: 904px;
+    top: 986px;  
+}
+
+#img-6{
+    position: absolute;
+    left: 397px;
+    top: 1247px;  
+}
+
+#img-7{
+    position: absolute;
+    left: 745px;
+    top: 1247px;  
+}
+
+#hexaFrame{
+    position: absolute;
+    left:214px;
+    top:723px;
+}
