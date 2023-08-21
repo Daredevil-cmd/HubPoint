@@ -1,12 +1,12 @@
  /*--------------------------classes------------------------- */
- .Line1{
+ /*.Line1{
     position: absolute;
     left: 50%;
     top: 10%;
     height: 60%;
     width: 4px;
     background: aqua;
-    }
+    }*/
     
  /* .I1{ */
     /* opacity: 50%; */
@@ -39,7 +39,7 @@ footer{
     padding-top: 75;
     padding-bottom: 75;
     left: 0px;
-    margin-top: 90%;
+    margin-top: 65%;
 }
 
 button{
@@ -55,53 +55,103 @@ img{
     height : 200px; 
     width : 200px;
 }
-
+    
 
 /* -----------------------------id--------------------------- */
 #img-1{
     position: absolute;
-    left: 390px;
-    top: 729px;  
+    left: 420px;
+    top: 320px;
+      
+}
+#hex1{
+    position: absolute;
+    width: 350px;
+    height: 350px;
+    left: 340px;
+    top: 250px;
 }
 
 #img-2{
     position: absolute;
+    left: 800px;
+    top: 320px;  
+}
+#hex2{
+    position: absolute;
+    width: 350px;
+    height: 350px;
     left: 725px;
-    top: 729px;  
+    top: 250px;
 }
 
 #img-3{
     position: absolute;
-    left: 214px;
-    top: 986px;  
+    left: 215px;
+    top: 610px;  
+}
+#hex3{
+    position: absolute;
+    width: 350px;
+    height: 350px;
+    left: 150px;
+    top: 535px;
 }
 
 #img-4{
     position: absolute;
-    left: 559px;
-    top: 986px;  
+    left: 610px;
+    top: 610px;  
+}
+#hex4{
+    position: absolute;
+    width: 350px;
+    height: 350px;
+    left: 530px;
+    top: 535px;
 }
 
 #img-5{
     position: absolute;
-    left: 904px;
-    top: 986px;  
+    left: 990px;
+    top: 610px;  
+}
+#hex5{
+    position: absolute;
+    width: 350px;
+    height: 350px;
+    left: 910px;
+    top: 535px;
 }
 
 #img-6{
     position: absolute;
-    left: 397px;
-    top: 1247px;  
+    left: 420px;
+    top: 900px;  
+}
+#hex6{
+    position: absolute;
+    width: 350px;
+    height: 350px;
+    left: 340px;
+    top: 820px;
 }
 
 #img-7{
     position: absolute;
-    left: 745px;
-    top: 1247px;  
+    left: 800px;
+    top: 885px;  
+}
+#hex7{
+    position: absolute;
+    width: 350px;
+    height: 350px;
+    left: 725px;
+    top: 820px;
 }
 
 #hexaFrame{
     position: absolute;
-    left:214px;
-    top:723px;
+    left:305px;
+    top:310px;
 }
